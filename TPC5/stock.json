@@ -1,0 +1,5 @@
+[
+    {"cod": "A01", "nome": "Água", "preco": 0.60, "quant": 10},
+    {"cod": "A02", "nome": "Refrigerante", "preco": 1.00, "quant": 5},
+    {"cod": "A03", "nome": "Chocolate", "preco": 1.50, "quant": 2}
+]

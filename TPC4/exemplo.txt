@@ -1,0 +1,6 @@
+# Informações sobre Albert Einstein
+select ?nome ?descricao where {
+?s a dbo:Scientist .
+?s foaf:name "Albert Einstein"@en .
+?s dbo:abstract ?descricao .
+} LIMIT 50
